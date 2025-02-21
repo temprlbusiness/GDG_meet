@@ -26,7 +26,7 @@ This repository is created to **showcase how AI agents are developed and utilize
 ollama run Qwen2.5-0.5B
 
 # Cloud Deployment using Runpod
-python runpod_ollama.py --model Qwen2.5-0.5B
+python ollama_agent.py --model Qwen2.5-0.5B
 ```
 
 ---
@@ -45,7 +45,7 @@ python runpod_ollama.py --model Qwen2.5-0.5B
 ollama run Qwen2.5-0.5B --task weather
 
 # Cloud Deployment using Runpod
-python runpod_weather.py --model Qwen2.5-0.5B
+python weather.py --model Qwen2.5-0.5B
 ```
 
 ---
@@ -59,19 +59,11 @@ python runpod_weather.py --model Qwen2.5-0.5B
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/gdg-demo-agents.git
-cd gdg-demo-agents
+git clone https://github.com/temprlbusiness/GDG_meet.git
+cd GDG_meet
 
 # Install dependencies
 pip install -r requirements.txt
-```
-
----
-
-## 🌐 Cloud Deployment with VLLM Runpod
-To deploy the agents on **VLLM Runpod**, use the following command:
-```bash
-runpodctl start --image vllm-runpod/qwen2.5-0.5B --config config.json
 ```
 
 ---
@@ -86,7 +78,6 @@ runpodctl start --image vllm-runpod/qwen2.5-0.5B --config config.json
 ## 📢 Contact & Support
 For any queries, feel free to reach out!
 - **Google Developer Group (GDG)**
-- Email: [contact@gdgmeet.com](mailto:contact@gdgmeet.com)
-- GitHub Issues: [Open an Issue](https://github.com/your-repo/gdg-demo-agents/issues)
+- Email: [business.temprl@gmailcom](mailto:business.temprl@gmailcom)
 
 Happy Coding! 🎉
