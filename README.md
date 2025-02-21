@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://business.temprl.pro/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_with_pro.20f29042.png&w=384&q=75" alt="Temprl Business Logo" height="120">
+</p>
+
+---
+
 # 🚀 Google Developer Group (GDG) Meet - Demo Agents
 
 ## 🎯 About This Repository
@@ -27,25 +33,6 @@ ollama run Qwen2.5-0.5B
 
 # Cloud Deployment using Runpod
 python ollama_agent.py --model Qwen2.5-0.5B
-```
-
----
-
-### 2️⃣ Weather Agent
-🔹 **Description**: A weather assistant that fetches real-time weather updates based on user queries.
-
-🔹 **Features**:
-- Provides current weather and forecasts
-- Supports both local and cloud deployment
-- Uses **Ollama Qwen2.5-0.5B** for intelligent query handling
-
-🔹 **Usage**:
-```bash
-# Local Deployment
-ollama run Qwen2.5-0.5B --task weather
-
-# Cloud Deployment using Runpod
-python weather.py --model Qwen2.5-0.5B
 ```
 
 ---
