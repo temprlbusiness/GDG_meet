@@ -65,7 +65,8 @@ runpodctl start --image vllm-runpod/qwen2.5-0.5B --config config.json
 📌 [LangChain DuckDuckGo Tool](https://python.langchain.com/docs/integrations/tools/ddg/)  
 📌 [VLLM Quickstart Guide](https://docs.vllm.ai/en/stable/getting_started/quickstart.html)  
 📌 [Ollama Structured Outputs](https://ollama.com/blog/structured-outputs)  
-
+📌 [Runpodctl](https://docs.runpod.io/runpodctl/reference/runpodctl_create_pod)  
+📌 [OpenAI API](https://platform.openai.com/docs/api-reference/chat/create)  
 ---
 
 ## 📢 Contact & Support
