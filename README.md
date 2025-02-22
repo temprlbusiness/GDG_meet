@@ -27,10 +27,10 @@ This repository is created to **showcase how AI agents are developed and utilize
 🔹 **Usage**:
 ```bash
 # Local Deployment
-ollama run Qwen2.5-0.5B
+ollama run deepseek-r1:1.5b
 
 # Cloud Deployment using Runpod
-python ollama_agent.py --model Qwen2.5-0.5B
+python ollama_agent.py
 ```
 
 ---
