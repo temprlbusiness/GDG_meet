@@ -1,0 +1,7 @@
+duckduckgo-search 
+langchain-community
+langchain-openai
+langchain-core
+ollama
+pydantic
+pyowm
