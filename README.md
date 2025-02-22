@@ -35,25 +35,6 @@ python ollama_agent.py --model Qwen2.5-0.5B
 
 ---
 
-### 2️⃣ Weather Agent
-🔹 **Description**: A weather assistant that fetches real-time weather updates based on user queries.
-
-🔹 **Features**:
-- Provides current weather and forecasts
-- Supports both local and cloud deployment
-- Uses **Ollama Qwen2.5-0.5B** for intelligent query handling
-
-🔹 **Usage**:
-```bash
-# Local Deployment
-ollama run Qwen2.5-0.5B --task weather
-
-# Cloud Deployment using Runpod
-python weather.py --model Qwen2.5-0.5B
-```
-
----
-
 ## 🛠️ Setup and Installation
 ### Prerequisites
 - Python 3.8+
@@ -90,7 +71,7 @@ runpodctl start --image vllm-runpod/qwen2.5-0.5B --config config.json
 ## 📢 Contact & Support
 For any queries, feel free to reach out!
 - **Google Developer Group (GDG)**
-- Email: [contact@gdgmeet.com](mailto:contact@gdgmeet.com)
-- GitHub Issues: [Open an Issue](https://github.com/your-repo/gdg-demo-agents/issues)
+- Email: [business.temprl@gmail.com](mailto:business.temprl@gmail.com)
+- GitHub Issues: [Open an Issue](https://github.com/temprlbusiness/GDG_meet)
 
 Happy Coding! 🎉
