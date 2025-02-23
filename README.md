@@ -5,7 +5,7 @@
 # 🚀 Google Developer Group (GDG) Meet - Demo Agents
 
 ## 🎯 About This Repository
-This repository is created to **showcase how AI agents are developed and utilized**. The demo projects provide insights into building AI-powered assistants using **Ollama Qwen2.5-0.5B** and deploying them both locally and on the cloud with **VLLM Runpod**. 
+This repository is created to **showcase how AI agents are developed and utilized**. The demo projects provide insights into building AI-powered assistants using **Ollama DeepSeek-R1:1.5B** and deploying them both locally and on the cloud with **VLLM Runpod**. 
 
 ### 🛠️ Technologies Used
 - **Ollama Qwen2.5-0.5B**: A powerful AI model for conversational AI.
@@ -17,7 +17,7 @@ This repository is created to **showcase how AI agents are developed and utilize
 ## 📌 Demo Agents
 
 ### 1️⃣ Ollama Agent
-🔹 **Description**: An interactive AI-powered assistant leveraging **Ollama Qwen2.5-0.5B** for conversational AI.
+🔹 **Description**: An interactive AI-powered assistant leveraging **Ollama DeepSeek-R1:1.5B** for conversational AI.
 
 🔹 **Features**:
 - Context-aware chat
